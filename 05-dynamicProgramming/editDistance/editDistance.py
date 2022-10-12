@@ -11,9 +11,8 @@ def editDistance (b, a):
         m[i][0] = i
     for j in range(alen+1):
         m[0][j] = j
-
-    for i in range(blen+1):
-        for j in range(alen+1):
+    for i in range(1,blen+1):
+        for j in range(1,alen+1):
             if b[i-1] == a[j-1]:
                 m[i][j] = m[i-1][j-1]
             else:

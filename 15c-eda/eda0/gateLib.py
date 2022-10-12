@@ -1,7 +1,10 @@
 class Gate:
+    count = 0
     def __init__(self, name, params):
         self.name = name
         self.params = params
+        self.id = Gate.count
+        Gate.count += 1
     def normalForm(self):
         plist = []
         for param in self.params:
