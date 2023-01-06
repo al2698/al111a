@@ -136,3 +136,7 @@ print(bfs(r, c, a, b, state))
 ```
 
 ![WAKUWAKU 尋找興奮源 解題結果](Picture/2_2.png)
+
+---
+
+[Code](https://github.com/ccccourse/alg111a/issues/6)
