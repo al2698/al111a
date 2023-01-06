@@ -1,4 +1,4 @@
-# WAKUWAKU 尋找興奮源 (⌓‿⌓)
+# [WAKUWAKU 尋找興奮源 (⌓‿⌓)](https://zerojudge.tw/ShowProblem?problemid=i793)
 
 ## 內容
 
