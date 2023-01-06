@@ -146,7 +146,8 @@ int findflow(int u, int v, int c)
 }
 
 /*
-在 maxflow() 函數中，首先使用廣度優先搜索 (BFS) 算法尋找增廣路。然後，使用 findflow() 函數計算增廣路中可以增加的流量。
+在 maxflow() 函數中，首先使用廣度優先搜索 (BFS) 算法尋找增廣路。
+然後，使用 findflow() 函數計算增廣路中可以增加的流量。
 最後，將增加的流量累加到最大流中。
 */
 int maxflow()
