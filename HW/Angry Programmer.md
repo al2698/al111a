@@ -290,6 +290,9 @@ while M or W:
 
 ![3_1](Picture/3_1.png)
 
+
+[Code](https://github.com/al2698/al111a/blob/main/HW/1_hill_climbing.ipynb)
+
 ---
 
 作者： PingHe @
