@@ -56,3 +56,6 @@ for _ in range(55):
 print(results)
 ```
 
+---
+
+https://github.com/al2698/al111a/blob/main/HW/2_Cnk.ipynb
